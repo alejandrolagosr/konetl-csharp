@@ -1,0 +1,14 @@
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\bin\Release\KinectExplorer-WPF.exe.config
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\bin\Release\KinectExplorer-WPF.exe
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectWindow.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\MainWindow.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\App.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\GeneratedInternalTypeHelper.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectExplorer-WPF_MarkupCompile.cache
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectExplorer-WPF_MarkupCompile.lref
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectWindow.baml
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\MainWindow.baml
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectExplorer-WPF.g.resources
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectExplorer-WPF.exe
+E:\Dropbox\Konetl\Proyecto\Final\KinectExplorer-WPF\obj\Release\KinectExplorer-WPF.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+﻿<Page x:Class="KonetlTutorial.Resources.Pages.KinectTuturial1"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+	Title="KinectTuturial1">
+
+    <Grid Height="398" Width="782">
+        <Image HorizontalAlignment="Left" Source="/KonetlTutorial;component/Resources/kinect-tutorial1.png" Stretch="Fill"/>
+    </Grid>
+</Page>

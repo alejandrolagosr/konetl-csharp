@@ -1,0 +1,7 @@
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\bin\Release\KinectExplorer-WPF.exe.config
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\obj\Release\KinectExplorer-WPF.csprojResolveAssemblyReference.cache
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\obj\Release\MainWindow.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\obj\Release\App.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\obj\Release\KinectExplorer-WPF_MarkupCompile.cache
+F:\Dropbox\Konetl\Project\Konetl-3\KinectExplorer\obj\Release\KinectExplorer-WPF_MarkupCompile.lref

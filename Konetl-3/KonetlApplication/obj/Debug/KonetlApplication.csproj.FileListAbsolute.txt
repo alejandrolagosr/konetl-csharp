@@ -1,0 +1,151 @@
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\KonetlApplication.exe.config
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\KonetlApplication.exe
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\KonetlApplication.pdb
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\MainWindow.baml
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\MainWindow.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\App.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.cache
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.g.resources
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.Properties.Resources.resources
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.csproj.GenerateResource.Cache
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.exe
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.pdb
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\MainMenu.baml
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\MainMenu.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\About.baml
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\About.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.lref
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\Intro.baml
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\Intro.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\bin\Debug\KonetlApplication.exe.config
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.exe
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.pdb
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\About.baml
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\MainMenu.baml
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\Intro.baml
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\About.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\MainMenu.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\Intro.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\App.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.cache
+C:\Users\Administrador\Dropbox\Konetl (1)\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.lref
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Resources\buttom_about.png
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Resources\buttom_bichis.png
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Resources\buttom_monkey.png
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication_Content.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\AboutMe.baml
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\AboutMe.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\KonetlApplication.csprojResolveAssemblyReference.cache
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\Menu.baml
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\obj\Debug\UserControls\Menu.g.cs
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Media\tada.wav
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\ApplesGame.exe
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\KineticMath.exe
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\KineticMath.pdb
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\ApplesGame.pdb
+F:\Dropbox\Konetl\Konetl-2\Project\KonetlApplication\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\KonetlApplication.exe.config
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication.exe
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication.pdb
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Resources\buttom_about.png
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Resources\buttom_bichis.png
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Resources\buttom_monkey.png
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Media\tada.wav
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\KonetlApplication.exe
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\KonetlApplication.pdb
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\ApplesGame.exe
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\KineticMath.exe
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Microsoft.Samples.Kinect.WpfViewers.dll
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Microsoft.Expression.Drawing.dll
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\KineticMath.pdb
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\ApplesGame.pdb
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\bin\Debug\Microsoft.Expression.Drawing.xml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication.csprojResolveAssemblyReference.cache
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\UserControls\AboutMe.baml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\UserControls\Intro.baml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\UserControls\Menu.baml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\About.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\MainMenu.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\MainWindow.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\UserControls\AboutMe.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\UserControls\Intro.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\UserControls\Menu.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\App.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication_Content.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.cache
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.lref
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\About.baml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\MainMenu.baml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\MainWindow.baml
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication.g.resources
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication.Properties.Resources.resources
+F:\Dropbox\Konetl\Project\Konetl-2\KonetlApplication\obj\Debug\KonetlApplication.csproj.GenerateResource.Cache
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.exe.config
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.exe
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.pdb
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\UserControls\AboutMe.baml
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\UserControls\Intro.baml
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\UserControls\Menu.baml
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\About.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\MainMenu.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\MainWindow.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\UserControls\AboutMe.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\UserControls\Intro.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\UserControls\Menu.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\App.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication_Content.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.cache
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.lref
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\Resources\buttom_about.png
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\Resources\buttom_bichis.png
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\Resources\buttom_monkey.png
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.exe
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.pdb
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\About.baml
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\MainMenu.baml
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\MainWindow.baml
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.g.resources
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.Properties.Resources.resources
+F:\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.csproj.GenerateResource.Cache
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.exe.config
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.exe
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.pdb
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\bin\Debug\Resources\buttom_about.png
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\bin\Debug\Resources\buttom_bichis.png
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\bin\Debug\Resources\buttom_monkey.png
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.exe
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.pdb
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.csprojResolveAssemblyReference.cache
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\UserControls\AboutMe.baml
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\UserControls\Intro.baml
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\UserControls\Menu.baml
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\About.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\MainMenu.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\MainWindow.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\UserControls\AboutMe.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\UserControls\Intro.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\UserControls\Menu.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\App.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication_Content.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.cache
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication_MarkupCompile.lref
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\About.baml
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\MainMenu.baml
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\MainWindow.baml
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.g.resources
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.Properties.Resources.resources
+F:\Dropbox\Projects\Konetl\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.csproj.GenerateResource.Cache
+C:\Users\Alejandro\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\bin\Debug\KonetlApplication.exe.config
+C:\Users\Alejandro\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.exe
+C:\Users\Alejandro\Dropbox\Konetl\Project\Konetl-3\KonetlApplication\obj\Debug\KonetlApplication.pdb

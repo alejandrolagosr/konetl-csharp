@@ -1,0 +1,485 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="KineticMath.App" Collapsed="true">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.MainWindow" Collapsed="true">
+    <Position X="12.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAIAAAAAAgAAIIAgAAgAAAAAAAQAAAAAgAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Background">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resources\Background.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.PlayAgainControl">
+    <Position X="17.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Resources\PlayAgainControl.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.UserControl1" Collapsed="true">
+    <Position X="16" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubControls\UserControl1.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.scoreTextControl" Collapsed="true">
+    <Position X="12.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Views\BalanceGame\scoreTextControl.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Controllers.BalanceGame">
+    <Position X="8.5" Y="2.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KineticMath.Controllers.BalanceGame.Mode" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controllers\BalanceGame.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAIAggBAOQBABAgBAAQgIQAKJKAMBCAIBEAAQAAgBAE=</HashCode>
+      <FileName>Controllers\BalanceGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Controllers.LevelLostEventArgs">
+    <Position X="10.75" Y="6.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KineticMath.Controllers.LevelLostEventArgs.Reason" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Controllers\BalanceGame.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\BalanceGame.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Controllers.Game">
+    <Position X="8.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Helpers.DebugHelper">
+    <Position X="19.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAQAAAAAAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Helpers\DebugHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Helpers.DebugMessageReceivedEventArgs">
+    <Position X="21.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Helpers\DebugHelper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Helpers.FrameworkElementExtensions" Collapsed="true">
+    <Position X="17.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\FrameworkElementExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Helpers.SkeletonPointExtensions" Collapsed="true">
+    <Position X="10.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Helpers\SkeletonPointExtensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.ConcreteKinectService" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAACgQAAAAAAAAAAQAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Kinect\ConcreteKinectService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Kinect.DummyKinectService" BaseTypeListCollapsed="true">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Kinect\DummyKinectService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Kinect.GestureController">
+    <Position X="19.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIAAAAEAAAAAIAAAAAIAACAAAAAAACIAAAAAAAAEA=</HashCode>
+      <FileName>Kinect\GestureController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.SkeletonPreProcessedEventArgs">
+    <Position X="12.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\GestureController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.SkeletonController">
+    <Position X="19.5" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACCAAQAAAAAAAAAAAAQAAAAABAAIAAAAIAAAgAAAE=</HashCode>
+      <FileName>Kinect\SkeletonController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.SkeletonEventArgs" Collapsed="true">
+    <Position X="21.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\SkeletonEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.BaseGesture">
+    <Position X="6.25" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAEAAAAAAAAAAAEA=</HashCode>
+      <FileName>Kinect\Gestures\BaseGesture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.EnergizeGesture" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="2" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="KineticMath.Kinect.Gestures.EnergizeGesture.EnergyEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Kinect\Gestures\EnergizeGesture.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAACAACIAgAABAAIAAAAEAACAAEAMA=</HashCode>
+      <FileName>Kinect\Gestures\EnergizeGesture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.EnergyEventArgs" Collapsed="true">
+    <Position X="14.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\Gestures\EnergyEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.HandPushGesture">
+    <Position X="4.25" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAAAEAAAABAEAAAAEAAAAAAAA=</HashCode>
+      <FileName>Kinect\Gestures\HandPushGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.HandPushedEventArgs">
+    <Position X="10.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\Gestures\HandPushGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.HistoryGestureBase">
+    <Position X="2.5" Y="9.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="KineticMath.Kinect.Gestures.HistoryGestureBase.SkeletonTimeEntry" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Kinect\Gestures\HistoryGestureBase.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAEAAEA=</HashCode>
+      <FileName>Kinect\Gestures\HistoryGestureBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.HitGesture" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAACCAABAAAAkAAAAAIAAAA=</HashCode>
+      <FileName>Kinect\Gestures\HitGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.RectHitEventArgs">
+    <Position X="21.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAIAAAA=</HashCode>
+      <FileName>Kinect\Gestures\HitGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.HoldGesture" BaseTypeListCollapsed="true">
+    <Position X="12.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAABAAAAAAIAAAAAAAAAAAAEAAAAAAAEA=</HashCode>
+      <FileName>Kinect\Gestures\HoldGesture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.JointMoveGestures">
+    <Position X="6.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAEAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\Gestures\JointMoveGestures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.JointMovedEventArgs" Collapsed="true">
+    <Position X="16" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\Gestures\JointMoveGestures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.JumpGesture" BaseTypeListCollapsed="true">
+    <Position X="17.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAEA=</HashCode>
+      <FileName>Kinect\Gestures\JumpGesture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.MoveEventArgs" Collapsed="true">
+    <Position X="16" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Kinect\Gestures\MoveEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.SwipeGesture" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYAAAAAAAQAAAAAAAAAAAAgAAAAAAAAgAAAAAAQAAEA=</HashCode>
+      <FileName>Kinect\Gestures\SwipeGesture.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Kinect.Gestures.GestureExtensions">
+    <Position X="21.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAACAAAAAAAQAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Kinect\Gestures\SwipeGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Kinect.PointConverters.BodyRelativePointConverter" BaseTypeListCollapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BCAABAgAAAAAAAAAAAAAQAEAAAAAAAAAAAAEAAAAARA=</HashCode>
+      <FileName>Kinect\PointConverters\BodyRelativePointConverter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Messaging.ChangeViewMessage" BaseTypeListCollapsed="true">
+    <Position X="16" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Messaging\ChangeViewMessage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="KineticMath.Properties.Resources">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Properties.Settings" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.Ball">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <InheritanceLine Type="KineticMath.SubControls.SeesawObject" FixedFromPoint="true">
+      <Path>
+        <Point X="5.75" Y="0.5" />
+        <Point X="5.75" Y="0.26" />
+        <Point X="4.01" Y="0.26" />
+        <Point X="4.01" Y="4.799" />
+        <Point X="3" Y="4.799" />
+        <Point X="3" Y="4.559" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAEAAQFAAIAAgAAAAAACIAAIAACgAAAAA=</HashCode>
+      <FileName>SubControls\Ball.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.Bird">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Delegate Name="KineticMath.SubControls.Bird.StopFlyingEventHandler" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>SubControls\Bird.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIEAAACAAAAAAAAEIAAAAACABAEAA=</HashCode>
+      <FileName>SubControls\Bird.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.Brick">
+    <Position X="6.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIEAAAAAAAAAAAAAIAAAAACAEAAAA=</HashCode>
+      <FileName>SubControls\Brick.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.FallingGroup">
+    <Position X="16" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAABABAAgCCAAIAAAgCQAAIoAIAAABAAQAAAAA=</HashCode>
+      <FileName>SubControls\FallingGroup.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.House" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SubControls\House.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.KinectSkeleton">
+    <Position X="19.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAADAAAAAAAAAAAAAAAAAAAAAQAIAAAAAAAA=</HashCode>
+      <FileName>SubControls\KinectSkeleton.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.KinectSkeletonNew">
+    <Position X="21.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJAAAAACAAAAAQgAABAAAEAABACAAMAIEAAAAAAA=</HashCode>
+      <FileName>SubControls\KinectSkeletonNew.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.Pig">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAIEAAAAEAAAAAAAAIAAAAACAAAAAA=</HashCode>
+      <FileName>SubControls\Pig.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.PointCanvas">
+    <Position X="19.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAABAAIAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>SubControls\PointCanvas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.Seesaw">
+    <Position X="14.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAACABAAQAAAAACCAAACAABAEAAAAIAIQAEAIBAAI=</HashCode>
+      <FileName>SubControls\Seesaw.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.SubControls.SeesawObject">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQABAAIAAAAAAAACAAAAAIAAAAAAEAAAA=</HashCode>
+      <FileName>SubControls\SeesawObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Views.MainView">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCABAEIQAAAAQAUQBmJARBFBAEIAiAoDEAgCAIABwI=</HashCode>
+      <FileName>Views\BalanceGame\MainView.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KineticMath.Views.SplashView">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAACAAAAIAAAAAAAAAAAAAAAAAQA=</HashCode>
+      <FileName>Views\BalanceGame\SplashView.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Views.TutorialView">
+    <Position X="4.5" Y="5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="KineticMath.Views.TutorialView.TutorialState" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Views\BalanceGame\TutorialView.xaml.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAEQAE4gAAIJAAAAAgAAAgAAAAAAAAAAI=</HashCode>
+      <FileName>Views\BalanceGame\TutorialView.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Views.BaseView">
+    <Position X="2.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAQQAAAAAAAEiAAAAAAAQAAEAAAAAAgAAEAAAI=</HashCode>
+      <FileName>Views\BaseView.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="KineticMath.Views.MessageReceivedEventArgs">
+    <Position X="14.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Views\IView.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="KineticMath.Views.SharedViewData">
+    <Position X="17.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAACAAAAAAAAQACAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Views\SharedViewData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="KineticMath.Kinect.IKinectService">
+    <Position X="12.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAQAAAAAAAAAAAAAAAAAAAAAACAAAAAg=</HashCode>
+      <FileName>Kinect\IKinectService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KineticMath.Kinect.Gestures.IGesture">
+    <Position X="10.75" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Kinect\Gestures\IGesture.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KineticMath.Kinect.PointConverters.IPointConverter">
+    <Position X="16" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Kinect\PointConverters\IPointConverter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KineticMath.Messaging.IMessage" Collapsed="true">
+    <Position X="14.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Messaging\IMessage.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="KineticMath.Views.IView">
+    <Position X="17.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAQAAAAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Views\IView.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

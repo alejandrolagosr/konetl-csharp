@@ -1,0 +1,13 @@
+E:\Dropbox\Konetl\Proyecto\Final\Credits\bin\Release\Credits.exe.config
+E:\Dropbox\Konetl\Proyecto\Final\Credits\bin\Release\Credits.exe
+E:\Dropbox\Konetl\Proyecto\Final\Credits\bin\Release\Credits.pdb
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits.csprojResolveAssemblyReference.cache
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\MainWindow.baml
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\MainWindow.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\App.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits_MarkupCompile.cache
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits.g.resources
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits.Properties.Resources.resources
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits.csproj.GenerateResource.Cache
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits.exe
+E:\Dropbox\Konetl\Proyecto\Final\Credits\obj\Release\Credits.pdb

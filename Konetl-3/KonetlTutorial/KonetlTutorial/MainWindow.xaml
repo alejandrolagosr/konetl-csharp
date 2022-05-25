@@ -1,0 +1,139 @@
+﻿<Window xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:telerik="http://schemas.telerik.com/2008/xaml/presentation"
+        xmlns:h="clr-namespace:Telerik.Windows.Examples.TransitionControl.FirstLook"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Class="KonetlTutorial.MainWindow"
+        Title="Konetl" Height="585" Width="840" WindowStyle="None" Icon="Resources/favicon.ico" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Resources>
+        <Style x:Key="FocusVisual">
+            <Setter Property="Control.Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Rectangle Margin="2" SnapsToDevicePixels="true" Stroke="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}" StrokeThickness="1" StrokeDashArray="1 2"/>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <SolidColorBrush x:Key="Button.Static.Background" Color="#FFDDDDDD"/>
+        <SolidColorBrush x:Key="Button.Static.Border" Color="#FF707070"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Background" Color="#FFBEE6FD"/>
+        <SolidColorBrush x:Key="Button.MouseOver.Border" Color="#FF3C7FB1"/>
+        <SolidColorBrush x:Key="Button.Pressed.Background" Color="#FFC4E5F6"/>
+        <SolidColorBrush x:Key="Button.Pressed.Border" Color="#FF2C628B"/>
+        <SolidColorBrush x:Key="Button.Disabled.Background" Color="#FFF4F4F4"/>
+        <SolidColorBrush x:Key="Button.Disabled.Border" Color="#FFADB2B5"/>
+        <SolidColorBrush x:Key="Button.Disabled.Foreground" Color="#FF838383"/>
+        <Style x:Key="ButtonPlay" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Grid HorizontalAlignment="Left" Height="45.96" VerticalAlignment="Top" Width="113" Margin="1,0,0,0">
+                            <Border x:Name="BorderNormal" BorderBrush="{x:Null}" BorderThickness="1" HorizontalAlignment="Left" Height="45.96" VerticalAlignment="Top" Width="112" d:IsHidden="True">
+                                <Border.Background>
+                                    <ImageBrush ImageSource="b_play0.png"/>
+                                </Border.Background>
+                            </Border>
+                            <Border x:Name="BorderPressed" BorderBrush="{x:Null}" BorderThickness="1" HorizontalAlignment="Left" Height="45.96" VerticalAlignment="Top" Width="112">
+                                <Border.Background>
+                                    <ImageBrush ImageSource="b_play1.png"/>
+                                </Border.Background>
+                            </Border>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true"/>
+                            <Trigger Property="IsMouseOver" Value="true"/>
+                            <Trigger Property="IsPressed" Value="true"/>
+                            <Trigger Property="IsEnabled" Value="false"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonAdjustKinect" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderThickness="1" HorizontalAlignment="Left" Height="65" VerticalAlignment="Top" Width="264">
+                            <Border.Background>
+                                <ImageBrush ImageSource="b_ADJUST1.png" Stretch="Uniform"/>
+                            </Border.Background>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true"/>
+                            <Trigger Property="IsMouseOver" Value="true"/>
+                            <Trigger Property="IsPressed" Value="true"/>
+                            <Trigger Property="IsEnabled" Value="false"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonHowTo" TargetType="{x:Type Button}">
+            <Setter Property="FocusVisualStyle" Value="{StaticResource FocusVisual}"/>
+            <Setter Property="Background" Value="{StaticResource Button.Static.Background}"/>
+            <Setter Property="BorderBrush" Value="{StaticResource Button.Static.Border}"/>
+            <Setter Property="Foreground" Value="{DynamicResource {x:Static SystemColors.ControlTextBrushKey}}"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Padding" Value="1"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border BorderBrush="{x:Null}" BorderThickness="1" HorizontalAlignment="Left" Height="62" VerticalAlignment="Top" Width="264">
+                            <Border.Background>
+                                <ImageBrush ImageSource="b_how1.png"/>
+                            </Border.Background>
+                        </Border>
+                        <ControlTemplate.Triggers>
+                            <Trigger Property="IsDefaulted" Value="true"/>
+                            <Trigger Property="IsMouseOver" Value="true"/>
+                            <Trigger Property="IsPressed" Value="true"/>
+                            <Trigger Property="IsEnabled" Value="false"/>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Window.Background>
+        <ImageBrush Stretch="UniformToFill" ImageSource="Resources/background.png"/>
+    </Window.Background>
+    <Grid>
+
+        <Grid x:Name="GridKinectTutorial" Visibility="Hidden">
+            <h:Example/>
+            
+        </Grid>
+
+        <Grid x:Name="GridHome" >
+            <Image HorizontalAlignment="Left" Height="130" Margin="206,186,0,0" VerticalAlignment="Top" Width="439" Source="Resources/konetl.png"/>
+            <Button x:Name="BtnHowTo" Content="Button" HorizontalAlignment="Left" Margin="285,308,0,0" VerticalAlignment="Top" Width="264" Height="62" Style="{DynamicResource ButtonHowTo}" Click="BtnHowTo_Click" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}"/>
+        </Grid>
+
+        <Grid x:Name="GridPlayButton">
+            <Button x:Name="BtnSetUpKinect" Content="Set up Kinect" HorizontalAlignment="Left" Margin="566,4,0,0" VerticalAlignment="Top" Width="264" Height="65" Click="BtnSetUpKinect_Click" Style="{DynamicResource ButtonAdjustKinect}" Background="{x:Null}" BorderBrush="{x:Null}" Foreground="{x:Null}"/>
+            <Button Content="Button" HorizontalAlignment="Left" Click="BtnPlay_Click" Margin="356,529,0,0" VerticalAlignment="Top" Width="116" Height="46" Style="{DynamicResource ButtonPlay}"/>
+        </Grid>
+
+    </Grid>
+
+
+</Window>

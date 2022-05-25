@@ -1,0 +1,16 @@
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\bin\Release\ApplesGame.exe.config
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\bin\Release\ApplesGame.exe
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\bin\Release\ApplesGame.pdb
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\bin\Release\Microsoft.Kinect.Toolkit.pdb
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\bin\Release\Microsoft.Kinect.Toolkit.Controls.pdb
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\bin\Release\Microsoft.Samples.Kinect.WpfViewers.pdb
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\MainWindow.baml
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\MainWindow.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\App.g.cs
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame_MarkupCompile.cache
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame.g.resources
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame.Properties.Resources.resources
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame.csproj.GenerateResource.Cache
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame.exe
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame.pdb
+E:\Dropbox\Konetl\Proyecto\Final\ApplesGame\obj\Release\ApplesGame.csprojResolveAssemblyReference.cache

@@ -1,0 +1,245 @@
+﻿<UserControl x:Class="KonetlApplication.UserControls.Menu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="740" d:DesignWidth="1280">
+    <UserControl.Resources>
+        <Storyboard x:Key="timeline">
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE1" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:14" Value="1410"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:16" Value="1410"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:28" Value="-177"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE2" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.3" Value="-1521"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:18" Value="-1521"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:31.2" Value="42"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE2" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:1.3" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:15.3" Value="87"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:18" Value="87"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:31.2" Value="78"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE3" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:4.4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:18" Value="1638"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:20.5" Value="1638"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:34" Value="114"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE3" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:4.4" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:18" Value="-105"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:20.5" Value="-105"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:34" Value="-162"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE4" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:8" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:22" Value="-1731"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:23.7" Value="-1731"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:38" Value="111"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE4" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:8" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:22" Value="-117"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:23.7" Value="-117"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:38" Value="-27"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE1" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:16" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:28" Value="156"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="NUBE3" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:18" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:20.5" Value="0.064"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[2].(RotateTransform.Angle)" Storyboard.TargetName="KONETL" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.5" Value="-7.38">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <ElasticEase EasingMode="EaseInOut"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+                <EasingDoubleKeyFrame KeyTime="0:0:2.6" Value="0">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <ElasticEase EasingMode="EaseInOut"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+                <EasingDoubleKeyFrame KeyTime="0:0:5.1" Value="8.146">
+                    <EasingDoubleKeyFrame.EasingFunction>
+                        <ElasticEase EasingMode="EaseInOut"/>
+                    </EasingDoubleKeyFrame.EasingFunction>
+                </EasingDoubleKeyFrame>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE5" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:7.5" Value="-30"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:20" Value="99"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE5" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:7.5" Value="-18"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:20" Value="-1524"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="NUBE5" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:7.5" Value="0.4"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:20" Value="0.495"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE6" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:16.7" Value="-1875"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:32.2" Value="-480"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE6" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:16.7" Value="126"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:32.2" Value="42"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="NUBE6" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0:0:16.7" Value="0.395"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:32.2" Value="0.55"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.X)" Storyboard.TargetName="NUBE7" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:17.2" Value="1542"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.RenderTransform).(TransformGroup.Children)[3].(TranslateTransform.Y)" Storyboard.TargetName="NUBE7" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:17.2" Value="-3"/>
+            </DoubleAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="NUBE7" RepeatBehavior="Forever">
+                <EasingDoubleKeyFrame KeyTime="0" Value="0.35"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:17.2" Value="0.48"/>
+            </DoubleAnimationUsingKeyFrames>
+        </Storyboard>
+    </UserControl.Resources>
+    <UserControl.Triggers>
+        <EventTrigger RoutedEvent="FrameworkElement.Loaded">
+            <BeginStoryboard Storyboard="{StaticResource timeline}"/>
+        </EventTrigger>
+    </UserControl.Triggers>
+    <UserControl HorizontalAlignment="Left" Height="720" VerticalAlignment="Top" Width="1280" Margin="0,0,-8,-30">
+        <UserControl.Background>
+            <ImageBrush/>
+        </UserControl.Background>
+        <Canvas HorizontalAlignment="Left" Height="720" VerticalAlignment="Top" Width="1280">
+            <InkCanvas x:Name="FONDO" Height="720" Width="1280" RenderTransformOrigin="0.5,0.5" Canvas.Left="-5" Canvas.Top="5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform AngleY="0.006"/>
+                        <RotateTransform/>
+                        <TranslateTransform Y="0.062"/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/FONDO3.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE1" Height="78" Width="104" Canvas.Left="-109" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube1.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE2" Height="99.75" Width="133" Canvas.Left="1296" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube2.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE3" Height="141" Width="188" Canvas.Left="-293" Canvas.Top="105" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube3.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE4" Height="125.444" Width="167.259" Canvas.Left="1434" Canvas.Top="90" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube4.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="KONETL" Height="164" Width="618" Canvas.Left="309" RenderTransformOrigin="0.5,0.5" Canvas.Top="33">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/konetl.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE5" Height="93" Width="124" Canvas.Left="1347" Canvas.Top="17.444" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube5.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE6" Height="77.25" Width="103" Canvas.Left="1785" Canvas.Top="-52.556" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube6.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+            <InkCanvas x:Name="NUBE7" Height="125.25" Width="167" Canvas.Left="-231" Canvas.Top="42.194" RenderTransformOrigin="0.5,0.5">
+                <InkCanvas.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </InkCanvas.RenderTransform>
+                <InkCanvas.Background>
+                    <ImageBrush ImageSource="/KonetlApplication;component/Resources/nube7.png"/>
+                </InkCanvas.Background>
+            </InkCanvas>
+        </Canvas>
+    </UserControl>
+</UserControl>
